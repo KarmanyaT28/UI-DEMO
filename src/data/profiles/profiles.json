@@ -1,0 +1,14 @@
+[
+    {
+        "image_src": "assets/images/scenario_1.jpg",
+        "username": "Scenario-1"
+    },
+    {
+        "image_src": "assets/images/scenario_2.jpg",
+        "username": "Scenario-2"
+    },
+    {
+        "image_src": "assets/images/scenario_3.jpg",
+        "username": "Scenario-3"
+    }
+]
